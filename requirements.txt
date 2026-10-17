@@ -1,0 +1,9 @@
+streamlit>=1.36,<2
+SQLAlchemy>=2.0,<3
+alembic>=1.13,<2
+bcrypt>=4,<6
+APScheduler>=3.10,<4
+streamlit-autorefresh>=1.0,<2
+pytest>=8,<9
+Pillow>=10,<12
+PyYAML>=6,<7
